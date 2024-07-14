@@ -1,2 +1,2 @@
 # kenku-dictionary
-A Dictionary Too for Kenku!
+A Dictionary for Kenku!
